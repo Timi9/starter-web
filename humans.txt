@@ -7,6 +7,7 @@ Timotei Schintee     tschintee@gmail.com @timotei95
     <name> -- <role> -- <twitter>
 
 # THANKS
+Thanks to all!
 
     <name>
 
