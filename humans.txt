@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+Timotei Schintee     tschintee@gmail.com @timotei95
 
     <name> -- <role> -- <twitter>
 
