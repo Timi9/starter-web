@@ -13,4 +13,4 @@ Add a sentence, more sentences yeah yeah yeah
 Please contribute
 
 ##Copyright
-Sample website with plenty of files for demos
+all rights res
